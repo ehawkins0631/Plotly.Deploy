@@ -23,3 +23,11 @@ Interactive dashboard:
 ![image](https://user-images.githubusercontent.com/101227930/181753185-493af7a2-c300-4bf8-9021-02926230c0ef.png)
 
 
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
