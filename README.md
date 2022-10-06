@@ -9,6 +9,7 @@ HTML to build the webpage index.html.
 CSS and Bootstrap to style the page style.css
 Chrome Developer Tools to test the code.
 
+
 Project Overview
 For this project I am creating an interactive dashboard, a creative visualization that enables communication by offering interactivity which can help the audience better understand the data and draw the same conclusions as researchers and data analysts. The purpose of this research is to gather, identify and analyze the biological footprint of individuals’ navels.
 
