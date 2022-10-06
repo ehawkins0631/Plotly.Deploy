@@ -2,6 +2,7 @@ Plotly-deploy
 
 Resources
 
+
 The data, stored in a json file samples.json.
 The table is built by inserting JavaScript and Plotly into HTML page charts.js.
 HTML to build the webpage index.html.
