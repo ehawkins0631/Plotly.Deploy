@@ -21,6 +21,7 @@ Moreover, scientists could use those new samples to start testing the correlatio
 
 The individual can find one’s information by selecting unique ID from a drop-down menu and explore data by deep dive in their own results or compare the results to other individuals. This research is also public and easily accessible, so anyone can learn more about belly button biodiversity and explore this fascinating field.
 
+
 Interactive dashboard:
 ![image](https://user-images.githubusercontent.com/101227930/181753185-493af7a2-c300-4bf8-9021-02926230c0ef.png)
 
